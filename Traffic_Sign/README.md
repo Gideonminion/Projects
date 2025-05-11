@@ -16,7 +16,7 @@ This project uses deep learning to recognize four types of traffic signs:
 
 ## Results
 
-The trained model achieves high accuracy in recognizing the four traffic signs. The exact accuracy depends on the training process, but we generally achieve over 90% accuracy.
+The trained model achieves high accuracy in recognizing the four traffic signs, typically exceeding 90% accuracy on our test set. Actual accuracy may vary depending on the specific training run and dataset split.
 
 ## Key Features
 
